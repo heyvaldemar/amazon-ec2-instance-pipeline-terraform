@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+_(no unreleased changes yet)_
+
+## [1.1.6] - 2026-09-24
+
 ### Security
 
 - **`hashicorp/terraform:1.16` was rebuilt upstream**; the pin moved from `sha256:c9a9d991c113…` to `sha256:985cdc6c1d9b…`. Same version, same tag, a rebuilt binary — the one that formats, validates and lints this configuration.
@@ -77,7 +81,8 @@ First semver release. Brings this configuration to the fleet standard.
   created, what must be changed before the first apply, and what CI
   does and does not prove.
 
-[Unreleased]: https://github.com/heyvaldemar/amazon-ec2-instance-pipeline-terraform/compare/v1.1.5...HEAD
+[Unreleased]: https://github.com/heyvaldemar/amazon-ec2-instance-pipeline-terraform/compare/v1.1.6...HEAD
+[1.1.6]: https://github.com/heyvaldemar/amazon-ec2-instance-pipeline-terraform/compare/v1.1.5...v1.1.6
 [1.1.5]: https://github.com/heyvaldemar/amazon-ec2-instance-pipeline-terraform/compare/v1.1.4...v1.1.5
 [1.1.4]: https://github.com/heyvaldemar/amazon-ec2-instance-pipeline-terraform/compare/v1.1.3...v1.1.4
 [1.1.3]: https://github.com/heyvaldemar/amazon-ec2-instance-pipeline-terraform/compare/v1.1.2...v1.1.3
