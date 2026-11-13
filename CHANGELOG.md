@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+_(no unreleased changes yet)_
+
+## [1.2.10] - 2026-11-13
+
 ### Security
 
 - **`hashicorp/terraform:1.17` was rebuilt upstream**; the pin moved from `sha256:a5d5a5a892c9…` to `sha256:6e9c1e647c31…`. Same version, same tag, a rebuilt binary — the one that formats, validates and lints this configuration.
